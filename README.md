@@ -29,7 +29,7 @@
 
 # *THIS IS MA QUIZZ!*
 
-# [do you know me quiz](https://replit.com/@alefiyahmadar/DO-YOU-KNOW-ALEFIYAH-part#index.js?embed=1&output=1)
+# [do you know me quiz](https://replit.com/@alefiyahmadar/DO-YOU-KNOW-ALEFIYAH-part-2#index.js?embed=1&output=1)
 
 ![image](https://user-images.githubusercontent.com/107259961/175028450-5ad6a71e-a27d-42ff-ab4d-574a65a70baa.jpg)
 
@@ -66,12 +66,15 @@
 # 2.**unorganised list**
 
 ## *shows to watch:*
-
-* spyXfamily 
-  * special ops
-    * mirzapur
-      - umbrella academy
-          - sacred games
+    
+          * mirzapur
+          
+                    * umbrella academy
+                              
+                              * sacred games
+                                 
+                                      * special ops
+          
 
 
 # 3. **numbered list**
