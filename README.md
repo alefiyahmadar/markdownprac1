@@ -31,7 +31,7 @@
 
 # [do you know me quiz](https://replit.com/@alefiyahmadar/DO-YOU-KNOW-ALEFIYAH-part#index.js?embed=1&output=1)
 
-![image](blob:https://web.whatsapp.com/daed7e42-73a2-4259-8fe2-01d0646c883a)
+![image](https://user-images.githubusercontent.com/107259961/175028450-5ad6a71e-a27d-42ff-ab4d-574a65a70baa.jpg)
 
 **NOTE: dont play it if you dont know me : /**
 
@@ -44,7 +44,7 @@
 # [*marvel quiz*](https://replit.com/@alefiyahmadar/marvel-quiz-level0-3)
 
 [imagei]:
-https://www.marvel.com/articles/movies/avengers-endgame-poster-2
+!(![marvel img](https://user-images.githubusercontent.com/107259961/175029034-2e369070-6395-4b53-afe9-087c7f3fa23a.jpg)
 
 
 ![marvel][imagei]
